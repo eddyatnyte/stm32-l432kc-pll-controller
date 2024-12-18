@@ -1,0 +1,4 @@
+../Core/Src/PLL/PLL.c:40:8:rt_roundd	24	static
+../Core/Src/PLL/PLL.c:58:6:PLL_step	80	static
+../Core/Src/PLL/PLL.c:315:6:PLL_initialize	4	static
+../Core/Src/PLL/PLL.c:343:6:PLL_terminate	4	static
